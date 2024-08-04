@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cintia Millacura</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Cintia Millacura</h1>
 <h3 align="center">A passionate System Analyst and Data Analyst from Argentina.</h3>
 - 🔭 I am currently looking for my first IT job opportunity that will allow me to acquire the necessary experience in a real project. **Trainee experience**
 
