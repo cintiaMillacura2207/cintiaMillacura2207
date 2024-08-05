@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc21weXh0Ymw0OGtsMzJ6dGpuemphcG1xY3l1dm1kcHpqdnFkMmZ3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="200">
-    <h1 align="center">Hi 👋, I'm Cintia Millacura</h1>
+    <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Cintia Millacura</h1>
     <h3 align="center">A passionate System Analyst and Data Analyst from Argentina. I like learning everything about programming.</h3>
     <br>
 </div>
